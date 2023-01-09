@@ -1,8 +1,8 @@
 # Canonical
-Canonical: https://www.dymaxion.world/security.txt
+Canonical: https://www.manifesto.space/security.txt
 
 # Contact
-Contact: mailto:info@geoid.org
+Contact: mailto:info@galacticembassy.com
 
 # Preferred-Languages
 Preferred-Languages: en
