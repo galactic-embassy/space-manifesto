@@ -1,0 +1,40 @@
+name: Build LaTeX Document
+
+# on: [push, pull_request]
+on:
+  push:
+    branches:
+      - master 
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+
+      - name: Compile LaTeX document
+        uses: Sakul6499/GitHub-Action-LaTeX@v1.0.0
+        with:
+          # The filename of your main/root LaTeX document. (Usually where your \documentclass[...]{...} is)
+          latex_main_file: main.tex
+          # Set if your LaTeX files are within a subdirectory (i.e. not the repository root)
+          working_directory: src/tex/
+          # If you want or require to use a different compiler
+          latex_compiler: latexmk
+          # If you want or require to use different compiler arguments
+          latex_compiler_arguments: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode"
+          # In case your LaTeX document requires additional LaTeX or system packages.
+          # The Action is build inside ArchLinux, thus always up-to-date, and feature rich. 
+          # List any package you need and it will be installed. 
+          # Check the Arch package list for an overview over packages. 
+          # texlive-most is already installed and should cover most of your needs. (This is not AUR!)
+          system_packages: "gcc"
+          # In case you want or need to run some commands before compiling
+          pre_task: 'echo "''Hello, World!'' from BEFORE compilation."'
+          # In case you want or need to run some commands after compiling
+          post_task: 'echo "''Hello, World!'' from AFTER compilation."'
