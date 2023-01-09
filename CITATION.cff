@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: Dymaxion
+title: Space Manifesto
 version: 0.0.1
-date-released: 2023-11-01
-url: "https://github.com/geoid-org/dymaxion"
+date-released: 2023-01-01
+url: "https://github.com/galactic-embassy/space-manifesto"
 message: >-
-  If you use Geoid Dymaxion, please cite it using
+  If you use the Space Manifesto, please cite it using
   the metadata from this file.
 type: software
 authors:
