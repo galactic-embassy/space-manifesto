@@ -1,0 +1,89 @@
+\documentclass{article}
+\input{prep.tex}
+
+% custom, local font...
+
+\usepackage[T1]{fontenc}
+\usepackage{tgbonum}
+\usepackage{ifxetex}
+
+\ifxetex
+    \usepackage{fontspec}
+    \usepackage{textcomp}
+    % only runs on Jelle's local computer
+    \setmainfont{GT Walsheim} % support bold and italic
+\fi
+%\setmainfont{Aaux ProRegular}
+%\setmainfont{Akkurat}
+
+
+%\renewcommand{\[rm|sf|tt]default}{Walsheim}
+%\renewcommand{\familydefault}{\[rm|sf|tt]default}
+
+
+%% definities
+\newcommand{\GA}{Galactic Embassy}
+\newcommand\client{{\scshape{Galactic Embassy}}}
+\newcommand{\clientname}{Galactic Embassy}
+\newcommand\docnr{\_F01-01}
+\newcommand\docname{Draft Space Manifesto}
+\newcommand\projnr{F001-ENG}
+\newcommand{\imgcopyright}{copyright \client}
+\newcommand{\COtwoeq}{CO$_2$-eq}
+\newcommand\projname{WIP book}
+\newcommand{\projtitle}{project titel}
+
+%% URLS
+\newcommand{\URLSBF}{https://www.galacticembassy.com/}
+
+%% symbols
+\newcommand\carboneq{kgCO$_2$ eq./m$^3$}
+\newcommand\cotwee{CO$_2$}
+\newcommand\kjoeb{m$^3$}
+
+
+
+\addbibresource{refs/MyLibrary.bib} %Imports bibliography file
+
+\title{\projtitle}
+
+
+\author{
+
+    van Vianen, Lars\\
+    \texttt{lars@scape.agency}
+%    \and
+
+}
+
+% Month, year
+\date
+
+\begin{document}
+%    \sffamily
+%    \fontfamily{Walsheim}\selectfont
+%    \renewcommand{\[rm|sf|tt]default}{Walsheim}
+%    \renewcommand{\familydefault}{\[rm|sf|tt]default}
+
+% I give up, Xetex
+
+    \maketitle
+
+% variables
+    \input{titlepage.tex}
+    \newpage{}
+    \tableofcontents
+    \newpage{}
+
+    \listoftodos
+    \input{introduction.tex}
+    \newpage{}
+    \input{contributers.tex}
+
+    \clearpage{}
+%    \newpage{}
+%    \input{TODO.tex}
+    \newpage{}
+    \input{biblio.tex}
+
+\end{document}

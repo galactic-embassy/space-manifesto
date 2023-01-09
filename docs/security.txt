@@ -1,0 +1,8 @@
+# Canonical
+Canonical: https://www.dymaxion.world/security.txt
+
+# Contact
+Contact: mailto:info@geoid.org
+
+# Preferred-Languages
+Preferred-Languages: en

@@ -1,0 +1,110 @@
+graph BlockFoundationConceptMap {
+	labelloc="t"
+	label="Block foundation mind map"
+	fontname="Akkurat"
+	layout=twopi;
+    layout=fdp;
+    layout=neato;
+    ratio=0.66;
+    mode=ipsep
+    mode=KK
+    maxiter=60000
+    model=circuit
+    model=mds
+    overlap=false;
+    graph [ranksep=11];
+	edge [penwidth=5 color="#f0f0ff"]
+	node [fontname="akkurat"]
+
+    // Ring 0
+	node [style="filled" penwidth=0 fillcolor="#f0f0ffA0" fontcolor=indigo]
+    edge [penwidth=5 color=black weight=100]
+	"Housing" [fontsize=16 fontcolor=red URL="https://en.wikipedia.org/wiki/Category:Happiness"]
+	
+    // Ring 1
+    node [fontsize=12];
+	"Housing" -- {
+		Trust
+		Community
+		Capital
+		Land
+        Access
+	}
+
+    // Ring 2
+    node [fontsize=8 fontcolor=red]
+    edge [penwidth=1 color=blue weight=20]
+    Transactional -- {
+        Community
+        Trust
+        // Capital
+        // Blockchain
+    }
+
+    Landtrust -- {
+        Land
+        Trust
+        
+    }
+
+    Exploitation -- {
+        Capital
+        
+    }
+
+    Capital -- {
+        Access
+    }
+
+    Trust -- {
+        // Blockchain
+    }
+
+
+    // Ring 3
+    node [fontsize=6 fontcolor=indigo]; 
+    edge [penwidth=0.8 color=cyan weight=16]
+    Blockchain -- {
+        Trust
+        Transactional
+    }
+
+    Exploitation -- {
+        Buy
+        Rent
+        Genossenschaft
+
+    }
+
+    Genossenschaft -- {
+        Community
+    }
+
+    // Ring 4
+    node [fontsize=4 fontcolor=indigo]; 
+    edge [penwidth=0.6 color=red weight=12]
+    Blockchain -- {
+        "Radical markets"
+        Web3
+    }
+
+    GenossenschaftFund -- {
+        Capital
+        Community
+        Genossenschaft
+    //     Access
+    //     Land
+    //     Trust
+    }
+
+    // // Ring 5
+    // node [fontsize=3 fontcolor=red]; 
+    // edge [penwidth=0.4 color=red weight=8]
+    // "Radical markets" -- {
+    //     "Quadratic voting"
+    //     Auctions
+    // }
+
+
+
+}

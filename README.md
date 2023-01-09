@@ -1,2 +1,1 @@
-# galacticembassy-manifesto
-Galactic Embassy Manifesto
+# Galactic Embassy Manifesto
