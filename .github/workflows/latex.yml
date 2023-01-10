@@ -25,6 +25,7 @@ jobs:
           # # The root LaTeX file to be compiled
           root_file: main.tex
           working_directory: src/tex/
+
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
@@ -32,6 +33,14 @@ jobs:
           path: src/tex/main.pdf
           retention-days: 5
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn`
+
+      - uses: dev-drprasad/delete-tag-and-release@v0.2.0
+        with:
+          tag_name: v0.0.0-wip #(required) tag name to delete 
+          delete_release: true #(optional) default: true 
+          # repo: <owner>/<repoName> #(optional) target repository. default: repo running this action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Release
         id: create_release
