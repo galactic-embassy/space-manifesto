@@ -15,4 +15,4 @@
 
 ---
 
-**Space Manifesto** is an open-source publication by the **[Galactic Embassy](https://www.galacticembassy.com "Galactic Embassy website")** and **[Scape Agency](https://www.scape.agency "Scape Agency website")**.
+The **Space Manifesto** is an open-source publication by the **[Galactic Embassy](https://www.galacticembassy.com "Galactic Embassy website")** and **[Scape Agency](https://www.scape.agency "Scape Agency website")**.
