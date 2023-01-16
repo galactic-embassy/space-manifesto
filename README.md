@@ -1,6 +1,6 @@
 <header>
 <p align="center">
-    <img src=".github/images/galactic_embassy-logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
+    <img src=".github/images/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Space Manifesto</h1>
 <h3 align='center'>Galactic Embassy</h3>
@@ -41,7 +41,6 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-- [Quick Start](#quick-start)
 - [Authors](#authors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -58,13 +57,10 @@
 
 https://www.zotero.org/groups/4602256/galactic
 
-## Quick Start
-
-...
 
 ## Authors
 
-...
+The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.
 
 
 ## Contributing
