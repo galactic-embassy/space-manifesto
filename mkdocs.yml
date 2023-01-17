@@ -102,20 +102,18 @@ extra:
     property: G-6FEJJ20F68
   social:
     - icon: fontawesome/solid/globe 
-      link: https://www.geoid.org
-      name: Geoid Website
+      link: https://www.galacticembassy.com
+      name: Galactic Embassy Website
     - icon: fontawesome/brands/github 
-      link: https://github.com/geoid-org
-      name: Geoid GitHub
+      link: https://github.com/galactic-embassy
+      name: Galactic Embassy GitHub
     - icon: fontawesome/brands/linkedin 
-      link: https://www.linkedin.com/company/geoid-org
-      name: Geoid LinkedIn
+      link: linkedin.com/company/galacticembassy
+      name: Galactic Embassy LinkedIn
     - icon: fontawesome/brands/instagram 
-      link: https://instagram.com/geoid_org
-      name: Geoid Instagram
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/geoid.org
-      name: Geoid Facebook
+      link: https://instagram.com/galactic.embassy
+      name: Galactic Embassy Instagram
+
   # consent:
   #   title: Cookie consent
   #   description: >- 
