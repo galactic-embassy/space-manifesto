@@ -52,7 +52,7 @@
 
 ## About
 
-...
+The **Space Manifesto** outliunes a set of principles, goals, and plans for the exploration and development of outer space. It can include a wide range of topics, such as space science, technology, policy, commercial and economic development, and international cooperation. 
 
 https://www.zotero.org/groups/4602256/galactic
 
@@ -78,12 +78,17 @@ We will work together as a global community, pooling our resources and knowledge
 
 ## Authors
 
-The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.
+__The Space Manifesto is an open source publicatiojn by the [Galactic Embassy](https://www.galacticembassy.com/)__
 
+**The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.**
+
+A galactic embassy is a hypothetical diplomatic facility that would be used to communicate and negotiate with extraterrestrial civilizations. It would likely be staffed by representatives from multiple Earth nations and other organizations, and would be equipped with advanced technology for communicating with alien species. The specific design and purpose of a galactic embassy would likely vary depending on the type of alien civilization it was intended to communicate with.
+
+A galactic embassy is a hypothetical concept for a facility or organization that serves as a central point of contact and communication between different intelligent alien species in the galaxy. It would likely be staffed by representatives of various extraterrestrial civilizations and would be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge. The design and location of a galactic embassy would depend on the specific needs and capabilities of the various alien species involved.
 
 ## Contributing
 
-We'd love for you to contribute and to make **Space Manifesto** even better than it is today!
+We'd love for you to contribute and to make the **Space Manifesto** even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
 
