@@ -59,11 +59,13 @@ https://www.zotero.org/groups/4602256/galactic
 
 ## Principles
 
-1.	**Exploration:** 
+1.	**Exploration:** \
 We will explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
 We will actively seek out new opportunities for exploration and discovery in the vast expanse of space.
 
-2.	**Cooperation:** We will work together as a global community, pooling our resources and knowledge to achieve common goals.
+2.	**Cooperation:** 
+We will work together as a global community, pooling our resources and knowledge to achieve common goals.
+
 3.	**Sustainability:** We will use sustainable and environmentally friendly technologies to minimize our impact on the cosmos.
 4.	**Innovation:** We will push the boundaries of science and technology, developing new and revolutionary ways to travel, live, and thrive in space.
 5.	**Education:** We will educate future generations about the wonders of space and inspire them to take part in humanity's journey into the stars.
