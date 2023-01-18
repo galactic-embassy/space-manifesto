@@ -56,6 +56,21 @@
 https://www.zotero.org/groups/4602256/galactic
 
 
+
+
+1.	**Exploration:** We will explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
+We will actively seek out new opportunities for exploration and discovery in the vast expanse of space.
+2.	**Cooperation:** We will work together as a global community, pooling our resources and knowledge to achieve common goals.
+3.	**Sustainability:** We will use sustainable and environmentally friendly technologies to minimize our impact on the cosmos.
+4.	**Innovation:** We will push the boundaries of science and technology, developing new and revolutionary ways to travel, live, and thrive in space.
+5.	**Education:** We will educate future generations about the wonders of space and inspire them to take part in humanity's journey into the stars.
+6.	**Peace:** We will use our shared passion for space exploration to bring people together and promote peace and understanding between nations and cultures.
+7.	**Survival:** We will ensure the survival and prosperity of our species by establishing permanent settlements on other planets, as a hedge against the eventual extinction of humanity on Earth.
+8.	**Ethics:** We will respect the potential for other forms of intelligent life, and consider the ethical implications of our actions in space.
+9.	**Openness:** We will promote open access to the data and knowledge gained through space exploration and encourage the participation of people from all backgrounds.
+10.	**Progress:** We will strive to make steady progress in our understanding and mastery of space, while being mindful of the potential risks and benefits of our actions.
+
+
 ## Authors
 
 The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.
