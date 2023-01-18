@@ -86,6 +86,7 @@ A galactic embassy is a hypothetical diplomatic facility that would be used to c
 
 A galactic embassy is a hypothetical concept for a facility or organization that serves as a central point of contact and communication between different intelligent alien species in the galaxy. It would likely be staffed by representatives of various extraterrestrial civilizations and would be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge. The design and location of a galactic embassy would depend on the specific needs and capabilities of the various alien species involved.
 
+
 ## Contributing
 
 We'd love for you to contribute and to make the **Space Manifesto** even better than it is today!
