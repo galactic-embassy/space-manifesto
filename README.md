@@ -20,8 +20,6 @@
 
   [![license](https://img.shields.io/github/license/galactic-embassy/space-manifesto?color=green&label=license&style=flat)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.geoid.org)](https://www.geoid.org)
-
-  ![python](https://img.shields.io/pypi/pyversions/space-manifesto?color=blue&label=python&style=flat)
   ![stars](https://img.shields.io/github/stars/galactic-embassy/space-manifesto?color=blue&label=stars&style=flat)
   ![forks](https://img.shields.io/github/forks/galactic-embassy/space-manifesto?color=blue&label=forks&style=flat)
   ![downloads](https://img.shields.io/github/downloads/galactic-embassy/space-manifesto/total?color=blue&label=downloads&style=flat)
@@ -52,9 +50,10 @@
 
 ## About
 
-The **Space Manifesto** outliunes a set of principles, goals, and plans for the exploration and development of outer space. It can include a wide range of topics, such as space science, technology, policy, commercial and economic development, and international cooperation. 
+The **Space Manifesto** outlines a set of principles, goals, and plans for the exploration and development of outer space. It can include a wide range of topics, such as space science, technology, policy, commercial and economic development, and international cooperation. 
 
-https://www.zotero.org/groups/4602256/galactic
+
+Visit our [Zotero Group](https://www.zotero.org/groups/4602256/galactic) for a complete bibliography.
 
 
 ## Principles
