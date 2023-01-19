@@ -54,14 +54,23 @@ The **Space Manifesto** outlines a set of principles, goals, and plans for the e
 
 The content of **Space Manifesto** is AI generated and curated and edited by the Galactic Embnassy.
 
+An AI-generated manifesto is a document created by an artificial intelligence system that outlines the principles and beliefs of a specific group or organization. These manifestos may cover a wide range of topics, such as politics, philosophy, economics, or technology. They may also be specific to a particular field or industry.
+
+The process of creating an AI-generated manifesto typically involves training a machine learning model on a dataset of existing manifestos or similar texts. The model is then used to generate new text that aligns with the themes and ideas present in the training data.
+
+One potential benefit of an AI-generated manifesto is that it could help to identify and articulate new or unconventional ideas that may not have been considered by human authors. Additionally, an AI-generated manifesto could be used to generate a wide range of alternative perspectives on a given topic, allowing for more diverse and inclusive discussions.
+
+However, it's important to note that the quality and content of an AI-generated manifesto will depend on the quality and bias of the dataset used to train the model. Therefore, it's important to be aware of the limitations of the technology and to critically evaluate the content of an AI-generated manifesto before accepting it as a valid representation of a group or organization's beliefs.
+
+
+
 Visit our [Zotero Group](https://www.zotero.org/groups/4602256/galactic) for a complete bibliography.
 
 
 ## Principles
 
 1.	**Exploration:** \
-We will explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
-We will actively seek out new opportunities for exploration and discovery in the vast expanse of space.
+We will actively explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
 
 2.	**Cooperation:** \
 We will work together as a global community, pooling our resources and knowledge to achieve common goals.
@@ -93,13 +102,13 @@ We will strive to make steady progress in our understanding and mastery of space
 
 ## Authors
 
-__The Space Manifesto is an open source publicatiojn by the [Galactic Embassy](https://www.galacticembassy.com/)__
+__The Space Manifesto is an open source publication by the [Galactic Embassy](https://www.galacticembassy.com/)__
 
-**The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.**
+**The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.** The [Galactic Embassy](https://www.galacticembassy.com/) is a hypothetical concept for an organization that serves as a central point of contact and communication between different intelligent species in the galaxy.
 
-A galactic embassy is a hypothetical diplomatic facility that would be used to communicate and negotiate with extraterrestrial civilizations. It would likely be staffed by representatives from multiple Earth nations and other organizations, and would be equipped with advanced technology for communicating with alien species. The specific design and purpose of a galactic embassy would likely vary depending on the type of alien civilization it was intended to communicate with.
+Eventually, the Galactic Embassy will be staffed by representatives of various extraterrestrial civilizations and be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge.
 
-A galactic embassy is a hypothetical concept for a facility or organization that serves as a central point of contact and communication between different intelligent alien species in the galaxy. It would likely be staffed by representatives of various extraterrestrial civilizations and would be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge. The design and location of a galactic embassy would depend on the specific needs and capabilities of the various alien species involved.
+For now, we are on a mission to set the conditions for humanity to become a multi-planetary species -- both enabling her to set sights on new worlds as suataing our life on Earth. Within the context of the future vacuum of space, we, assisted with cutting edge human-derived AI, develop the imaginations to further our life on Earth.
 
 
 ## Contributing
