@@ -25,7 +25,7 @@ theme:
   locale: en
   language: en
   palette:
-    scheme: geoid
+    scheme: galacticembassy
   # palette:
   #   - scheme: default
   #     primary: indigo
