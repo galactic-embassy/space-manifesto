@@ -23,7 +23,7 @@
   ![stars](https://img.shields.io/github/stars/galactic-embassy/space-manifesto?color=blue&label=stars&style=flat)
   ![forks](https://img.shields.io/github/forks/galactic-embassy/space-manifesto?color=blue&label=forks&style=flat)
   ![downloads](https://img.shields.io/github/downloads/galactic-embassy/space-manifesto/total?color=blue&label=downloads&style=flat)
-  ![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat)
+  ![sponsors](https://img.shields.io/github/sponsors/galactic-embassy?color=blue&label=sponsors&style=flat)
   ![contributors](https://img.shields.io/github/contributors/galactic-embassy/space-manifesto?color=blue&label=contributors&style=flat)
 
 </div>
