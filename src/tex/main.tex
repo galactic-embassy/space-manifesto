@@ -52,21 +52,22 @@
 
 \begin{document}
 
-\title{Title}
-\author {Author}
-
-\date{\today}
-
-\maketitle
 
 
+\include{title}
 
 \include{abstract}
+
+\include{chs/principles}
 
 
 \linenumbers
 
 \include{chs/exploration}
+\include{chs/cooperation}
+
+
+
 
 \section{Section}
 \subsection{Sub Section}
@@ -100,5 +101,9 @@
 \blindtext
 \Note{Third Note}
 
+
+\newpage
+\bibliography{bibliography} 
+\bibliographystyle{ieeetr}
 
 \end{document}
