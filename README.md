@@ -70,7 +70,9 @@ Visit our [Zotero Group](https://www.zotero.org/groups/4602256/galactic) for a c
 ## Principles
 
 1.	**Exploration:** \
-We will actively explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
+We recognize the importance of space exploration for the future of humanity, both in terms of scientific discovery and potential resources.
+Thereforw, we will actively explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
+
 
 2.	**Cooperation:** \
 We will work together as a global community, pooling our resources and knowledge to achieve common goals.
