@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://github.com/galactic-embassy/.assets/blob/086008d75557f9ce29e2a46dfdbcc3912b6443ce/logo/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
+    <img src="https://galactic-embassy.github.io/.assets/image/logo/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Space Manifesto</h1>
 <h3 align='center'>Galactic Embassy</h3>
 <br/>
 
 <p align="center">
-    <img src="https://github.com/galactic-embassy/.assets/blob/8c416cb1074be0f0d8ea6198469ad63b01f99b48/image/galactic_embassy-astronauts-01.png" width="100%" height="100%" alt="Galactic Embassy Logo">
+    <img src="https://galactic-embassy.github.io/.assets/image/galactic_embassy-astronauts-01.png" width="100%" height="100%" alt="Galactic Embassy Logo">
 </p>
 <br/>
 
