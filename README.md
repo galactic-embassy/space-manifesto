@@ -11,10 +11,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
-  |
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
-  |
   <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
   |
   <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
@@ -27,10 +23,9 @@
   [![license](https://img.shields.io/github/license/galactic-embassy/space-manifesto?color=green&label=license&style=flat)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.manifesto.space)](https://www.manifesto.space)
   ![stars](https://img.shields.io/github/stars/galactic-embassy/space-manifesto?color=blue&label=stars&style=flat)
-  ![forks](https://img.shields.io/github/forks/galactic-embassy/space-manifesto?color=blue&label=forks&style=flat)
-  ![downloads](https://img.shields.io/github/downloads/galactic-embassy/space-manifesto/total?color=blue&label=downloads&style=flat)
-  ![sponsors](https://img.shields.io/github/sponsors/galactic-embassy?color=blue&label=sponsors&style=flat)
   ![contributors](https://img.shields.io/github/contributors/galactic-embassy/space-manifesto?color=blue&label=contributors&style=flat)
+
+  [![website](https://img.shields.io/badge/zotero-group-blue)](https://www.zotero.org/groups/4602256/galactice)
 
 </div>
 
@@ -58,7 +53,7 @@
 
 The **Space Manifesto** outlines a set of principles, goals, and plans for the exploration and development of outer space. It can include a wide range of topics, such as space science, technology, policy, commercial and economic development, and international cooperation. 
 
-The content of **Space Manifesto** is AI generated and curated and edited by the Galactic Embnassy.
+The content of **Space Manifesto** is AI generated and curated and edited by the Galactic Embassy.
 
 An AI-generated manifesto is a document created by an artificial intelligence system that outlines the principles and beliefs of a specific group or organization. These manifestos may cover a wide range of topics, such as politics, philosophy, economics, or technology. They may also be specific to a particular field or industry.
 
