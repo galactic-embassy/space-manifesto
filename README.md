@@ -4,6 +4,12 @@
 <h1 align='center' style='border-bottom: none;'>Space Manifesto</h1>
 <h3 align='center'>Galactic Embassy</h3>
 <br/>
+
+<p align="center">
+    <img src="https://github.com/galactic-embassy/.assets/blob/8c416cb1074be0f0d8ea6198469ad63b01f99b48/image/galactic_embassy-astronauts-01.png" width="100%" height="100%" alt="Galactic Embassy Logo">
+</p>
+<br/>
+
 <div align="center">
   <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
@@ -71,7 +77,7 @@ Visit our [Zotero Group](https://www.zotero.org/groups/4602256/galactic) for a c
 
 1.	**Exploration:** \
 We recognize the importance of space exploration for the future of humanity, both in terms of scientific discovery and potential resources.
-Thereforw, we will actively explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
+Therefore, we will actively explore and chart the vast expanse of space, seeking out new worlds and discovering the mysteries of the universe.
 
 
 2.	**Cooperation:** \
