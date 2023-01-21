@@ -105,13 +105,17 @@ We will strive to make steady progress in our understanding and mastery of space
 
 ## Authors
 
-__The Space Manifesto is an open source publication by the [Galactic Embassy](https://www.galacticembassy.com/)__
+_The Space Manifesto is an open source publication by the [Galactic Embassy](https://www.galacticembassy.com/)_
 
-**The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.** The [Galactic Embassy](https://www.galacticembassy.com/) is a hypothetical concept for an organization that serves as a central point of contact and communication between different intelligent species in the galaxy.
+**The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.**
+
+The Galactic Embassy is a hypothetical concept for an organization that serves as a central point of contact and communication between different intelligent species in the galaxy.
 
 Eventually, the Galactic Embassy will be staffed by representatives of various extraterrestrial civilizations and be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge.
 
-For now, we are on a mission to set the conditions for humanity to become a multi-planetary species -- both enabling her to set sights on new worlds as suataing our life on Earth. Within the context of the future vacuum of space, we, assisted with cutting edge human-derived AI, develop the imaginations to further our life on Earth.
+For now, we are on a mission to set the conditions for humanity to become a multi-planetary species – both enabling her to set sights on new worlds as suataing our life on Earth. Within the context of the future vacuum of space, we, assisted with cutting edge human-derived AI, develop the imaginations to further our life on Earth.
+
+_The Galactic Embassy is an initiative by [Scape Agency](https://www.scape.agency/)._
 
 
 ## Contributing
