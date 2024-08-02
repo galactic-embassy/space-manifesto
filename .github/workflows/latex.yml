@@ -34,7 +34,7 @@ jobs:
           retention-days: 5
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn`
 
-      - uses: dev-drprasad/delete-tag-and-release@v0.2.0
+      - uses: dev-drprasad/delete-tag-and-release@v1.0.1
         with:
           tag_name: v0.0.0-wip #(required) tag name to delete 
           delete_release: true #(optional) default: true 
